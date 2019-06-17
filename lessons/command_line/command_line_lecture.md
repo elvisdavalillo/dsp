@@ -146,6 +146,8 @@ Nice.
 > Let's save the output of the `curl` command to a file called `data.txt`. How
 would we do that?
 
+Almas-Mac:test_directory elvis$ curl --output data.txt
+
 Now that we have the data file, let's learn how to manipulate files.
 
 ### Copying, Moving, and Removing Files
